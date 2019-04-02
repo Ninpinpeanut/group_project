@@ -1,1 +1,5 @@
-
+body {
+  background-color: rgb(120,20,220);
+  color: rgb(20,220,120);
+font-family: verdana;
+}
