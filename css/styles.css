@@ -1,1 +1,28 @@
-
+body {
+        background-image:
+        url("images/background.jpg");
+        color: rgb(35, 125, 30);
+        font-family: sans-serif;
+        margin: 0px;
+}
+div {
+        min-height: 100vh;
+        width: 100vw;
+}
+h1, h2 {
+        text-align: center;
+}
+h3 {
+      text-align: justify;
+      font-size: 1.5em;
+}
+h1 {
+      font-size: 4em;
+}
+h2 {
+      font-size: 2.5em;
+}
+img {
+      display: flex;
+      padding: 15px;
+}
