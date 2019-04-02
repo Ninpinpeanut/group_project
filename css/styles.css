@@ -1,9 +1,11 @@
 body {
-        background-image:
-        url("images/background.jpg");
-        color: rgb(35, 125, 30);
+        background-color: rgb(25, 15, 35);
         font-family: sans-serif;
+        color: rgb(255, 255, 255);
         margin: 0px;
+}
+#grad {
+  background-image: linear-gradient(rgb(215,210, 220), rgb(25, 150, 35);
 }
 div {
         min-height: 100vh;
@@ -35,10 +37,14 @@ a:link {
       text-decoration-style: dotted;
 }
 a:hover {
-      color: rgb(255, 255, 255);
+      color: rgb(220, 90, 15);
       text-decoration: none;
 }
 a:active {
-      color: rgb(220, 90, 15);
+      color: rgb(255, 255, 255);
       text-decoration: none;
+}
+a:visited {
+      color: rgb(220, 90, 15);
+      text-decoration-style: dashed;
 }
