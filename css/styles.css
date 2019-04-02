@@ -26,6 +26,7 @@ img {
       display: flex;
       padding: 15px;
 }
+
 p {
       margin: 10vh 10vw;
       font-size: 1.5em;
@@ -33,3 +34,4 @@ p {
 a {
       color: rgb(220, 90, 15);
 }
+
