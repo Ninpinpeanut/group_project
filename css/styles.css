@@ -26,12 +26,19 @@ img {
       display: flex;
       padding: 15px;
 }
-
 p {
       margin: 10vh 10vw;
       font-size: 1.5em;
 }
-a {
+a:link {
       color: rgb(220, 90, 15);
+      text-decoration-style: dotted;
 }
-
+a:hover {
+      color: rgb(255, 255, 255);
+      text-decoration: none;
+}
+a:active {
+      color: rgb(220, 90, 15);
+      text-decoration: none;
+}
