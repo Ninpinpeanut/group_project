@@ -1,15 +1,13 @@
 body {
-        background-color: rgb(215,255,229);
+        background-image:
+        url("images/background.jpg");
+        color: rgb(0, 0, 0);
         font-family: sans-serif;
-        color: rgb(255, 255, 255);
         margin: 0px;
 }
-#grad {
-  background-image: linear-gradient(rgb(215,210, 220), rgb(25, 150, 35);
-}
 div {
-        min-height: 100vh;
-        width: 100vw;
+        /* min-height: 100vh; */
+        /* width: 100vw; */
 }
 h1, h2 {
         text-align: center;
@@ -28,23 +26,11 @@ img {
       display: flex;
       padding: 15px;
 }
+
 p {
-      margin: 10vh 10vw;
-      font-size: 1.5em;
+      /* margin: 10vh 10vw; */
+      /* font-size: 1.5em; */
 }
-a:link {
+a {
       color: rgb(220, 90, 15);
-      text-decoration-style: dotted;
-}
-a:hover {
-      color: rgb(220, 90, 15);
-      text-decoration: none;
-}
-a:active {
-      color: rgb(255, 255, 255);
-      text-decoration: none;
-}
-a:visited {
-      color: rgb(220, 90, 15);
-      text-decoration-style: dashed;
 }
