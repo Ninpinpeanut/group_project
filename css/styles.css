@@ -1,4 +1,4 @@
-body {
+rbody {
 
         background-image:
         url("images/background.jpg");
@@ -11,7 +11,7 @@ h1, h2 {
         text-align: center;
 }
 h3 {
-      text-align: justify;
+      text-align: center;
       font-size: 1.5em;
 }
 h1 {
