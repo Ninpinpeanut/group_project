@@ -31,5 +31,6 @@ a:link {
 }
 a:hover {
         color: rgb(0,0,0);
-        text-decoration: dotted;
+        border-bottom: 1px dotted #000
+        text-decoration: none;
 }
