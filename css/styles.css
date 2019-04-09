@@ -1,4 +1,4 @@
-  
+
 body {
 
         background-image: url("background.png");
@@ -24,6 +24,9 @@ h2 {
 img {
       display: flex;
       padding: 1px;
+}
+.img-circle {
+    border-radius: 50%;
 }
 
 /*rounded images*/
