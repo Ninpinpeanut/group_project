@@ -1,4 +1,4 @@
-body {
+rbody {
 
         background-image:
         url("images/background.jpg");
@@ -25,7 +25,11 @@ img {
       padding: 1px;
 }
 
-
-a {
-      color: rgb(220, 90, 15);
+a:link, a:visited {
+  background-color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+a:hover, a:active {
+  background-color: rgb(0, 0, 0);
+  text-decoration: dotted;
 }
