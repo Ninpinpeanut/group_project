@@ -27,8 +27,9 @@ img {
 
 a:link, a:visited {
   background-color: rgb(0, 0, 0);
-  text-decoration:none;
+  text-decoration: none;
 }
 a:hover, a:active {
   background-color: rgb(0, 0, 0);
+  text-decoration: dotted;
 }
