@@ -62,7 +62,7 @@ input[type=submit] {
 
 /*same colour for hover*/
 input[type=submit]:hover {
-  background-color: rgb(56,159,181);
+  background-color: rgb(29,132,149);
 }
 
 .container {
