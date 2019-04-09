@@ -25,6 +25,11 @@ img {
       padding: 1px;
 }
 
+/*rounded images*/
+.img-circle {
+    border-radius: 50%;
+}
+
 /*links*/
 a {
       color: rgb(220, 90, 15);
