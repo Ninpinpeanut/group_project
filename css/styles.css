@@ -1,14 +1,12 @@
 body {
+
         background-image:
         url("images/background.jpg");
         color: rgb(0, 0, 0);
         font-family: sans-serif;
         margin: 0px;
 }
-div {
-        /* min-height: 100vh; */
-        /* width: 100vw; */
-}
+
 h1, h2 {
         text-align: center;
 }
@@ -27,10 +25,7 @@ img {
       padding: 15px;
 }
 
-p {
-      /* margin: 10vh 10vw; */
-      /* font-size: 1.5em; */
-}
+
 a {
       color: rgb(220, 90, 15);
 }
